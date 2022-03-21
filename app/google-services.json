@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "278209111897",
+    "project_id": "fir-fe206",
+    "storage_bucket": "fir-fe206.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278209111897:android:f3830acd469d4611c88e48",
+        "android_client_info": {
+          "package_name": "kr.co.smartsoft.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278209111897-ticv3s3nk8sqm6op9a0c1a8ac1ql7sg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9dreJbXUKenRB4OgmUf7M0ykR1QpveJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278209111897-ticv3s3nk8sqm6op9a0c1a8ac1ql7sg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
